@@ -1,5 +1,5 @@
 // Blinking LED, now really standalone; LED controlled from C level
-// Compile: gcc  -o  t1 tut_led.c
+// Compile: gcc  -o  t1 t_led.c
 // Run:     sudo ./t1
 
 #include <stdio.h>
